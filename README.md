@@ -1,4 +1,4 @@
-# Hey Folks, Ikhsan Here!
+## Hey Folks, Ikhsan Here!
 
 I’m a detail-oriented Data Analyst with expertise in data wrangling, visualization, and storytelling, backed by strong analytical and problem-solving skills. Actively expanding into Machine Learning and AI, with a focus on NLP and Large Language Models (LLM) to drive impactful solutions.
 
