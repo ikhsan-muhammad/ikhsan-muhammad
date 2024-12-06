@@ -4,5 +4,5 @@ A detail-oriented Data Analyst with expertise in data wrangling, visualization, 
 
 I combine technical expertise with collaboration skills, honed through organizing a Data Science Weekend, which strengthened my project management and communication abilities. I aim to leverage these skills to create innovative, data-driven solutions for real-world challenges.✨
 
-Field of interest: <BI, Fraud & Transportation analyst, Fine-Tuning, AI Prompting, and Geospatial>.<br>
-Technical Skills: <SQL, Python, Metabase, Tableau, Docker, Git>.
+Field of interest: <BI, Fraud & Transportation analyst, Fine-Tuning, AI Prompting, and Geospatial><br>
+Technical Skills: <SQL, Python, Metabase, Tableau, Docker, Git>
